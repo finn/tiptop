@@ -38,7 +38,7 @@ application root:
 
     [database]
     dsn=dbi:mysql:database=tiptop
-    username=username
+    user=username
     password=password
     
     [user]
